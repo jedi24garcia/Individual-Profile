@@ -1,83 +1,17 @@
 body {
-    background-color: black;
-    background: #33CCCC;
-    animation: color 2s infinite linear;
+    background-color: #4B0082;
     text-align: center;
-    padding: 2em;
+    padding: 20px;
   }
   
   h1 {
-    color: black;
-    text-align: center;
-  }
-
-  h2 {
-    color: black;
-    text-align: center;
-  }
-
-  /*h3 {
-    /*color: black;
-    /*text-align: center;
-  }*/
-  
-  p {
-    color: black;
-    font-family: monospace;
-    font-size: 20px;
-    text-align: center;
-    font-weight: bold;
-  }
-
-  img {
-    border-radius: "500px";
-  }
-
-  .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
-
-/*this is just background colour*/
-  @keyframes color {
-    0%  { background: #33CCCC; }
-    20% { background: #33CC36; }
-    40% { background: #B8CC33; }
-    60% { background: #FCCA00; }
-    80% { background: #33CC36; }
-    100% { background: #33CCCC;}
-  }
-
-  .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 30px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-    border-radius: 50%;
-  }
-
-  .fa-facebook {
-    background: #3B5998;
     color: white;
-    /*width: 50px;*/
+    text-align: left;
   }
-  
-  /*.instagram {
-    display: inline-block;
-    width: 250px;
-    height: 250px;
-    text-align: center;
-    border-radius: 40px;
-    color: #fff;
-    font-size: 220px;
-    line-height: 250px;
-    vertical-align: middle;
-    background: #d6249f;
-    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
-    box-shadow: 0px 3px 10px rgba(0,0,0,.25);
-  }*/
+
+  p {
+    color: white;
+    text-align: left;
+    font-size: 20px;
+  }
+ 
