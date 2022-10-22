@@ -7,20 +7,24 @@ body {
   h1 {
     color: white;
     text-align: left;
+    padding: 20px;
   }
 
   h2 {
     color: white;
     text-align: left;
+    padding: 20px;
   }
 
   h3 {
     color: white;
+    padding: 20px;
   }
 
   p {
     color: white;
     text-align: left;
     font-size: 20px;
+    padding: 20px;
   }
  
