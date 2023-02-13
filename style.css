@@ -1,6 +1,6 @@
 body {
-    background-image: linear-gradient(to right, #090979 0%, black 100%);
-    text-align: center;
+    background-image: linear-gradient(to bottom right, #090979 100%);
+    text-align: middle;
     padding: 20px;
   }
   
