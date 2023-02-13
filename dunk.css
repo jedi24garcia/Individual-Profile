@@ -31,5 +31,7 @@ body {
   .button {
     color: blue;
     padding: 10px 10px;
+    justify-content: flex-end;
+    display: flex;
   }
  
