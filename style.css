@@ -17,6 +17,13 @@ body {
     padding: 20px;
   }
 
+  p1 {
+    color: black;
+    text-align: left;
+    font-size: 20x;
+    padding: 20px;
+  }
+
   .button {
     color: blue;
     padding: 10px 10px;
